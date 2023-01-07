@@ -1,2 +1,0 @@
-Title: Learn git
-Subtitile: hello
